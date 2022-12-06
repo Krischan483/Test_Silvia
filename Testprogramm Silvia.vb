@@ -8,3 +8,5 @@ a = "Dies ist ein String"
 b = 15
 
 c = 10 
+
+msgBox "GANZ TOLL!!!!!"
